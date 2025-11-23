@@ -7,6 +7,7 @@ Note: Publishing posts is not supported, use [nostr-publisher-cli](https://githu
 ## Installation
 
 `npm install ed253/nostr-multimedia`
+
 `npm start`
 
 Runs on localhost:8080 by default.
@@ -146,7 +147,7 @@ A HTML page
 
 Or
 
-https://nostr-multimedia.eu-4.evennode.com/file/{RELAY}/{ID}/{FILENAME}.{EXTENSION}
+http://127.0.0.1:8080/file/{RELAY}/{ID}/{FILENAME}.{EXTENSION}
 
 ### Display an image
 
