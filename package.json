@@ -1,0 +1,31 @@
+{
+  "name": "nostr-multimedia",
+  "version": "1.0.0",
+  "description": "Fetch anything from Nostr - JSON RPC, plaintext, Markdown, HTML and images",
+  "license": "MIT",
+  "author": "ed253",
+  "homepage": "https://github.com/ed253/nostr-publisher-cli",
+  "funding": [
+    {
+      "type": "bitcoin",
+      "url": "https://coinos.io/ed253/receive"
+    },
+    {
+      "type": "monero",
+      "url": "https://sendxmr.com/@ed253"
+    }
+  ],
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@scure/base": "^2.0.0",
+    "file-type": "^21.1.1",
+    "marked": "^17.0.0",
+    "node-tlv": "^1.5.14",
+    "ws": "^8.18.3"
+  }
+}
