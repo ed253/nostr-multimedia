@@ -36,7 +36,7 @@ Or
 
 ### Fetch a note by ID
 
-https://nostr-multimedia.eu-4.evennode.com/json/note/relay.nostr.band/note1kme87khrvjawl0d7k0mwwdqqrx3ya4kenuajzynft4uk75ya53ms2qeeqw/
+https://nostr-multimedia.netlify.app/json/note/relay.nostr.band/note1kme87khrvjawl0d7k0mwwdqqrx3ya4kenuajzynft4uk75ya53ms2qeeqw/
 
 Returns:
 
@@ -44,23 +44,23 @@ Returns:
 
 ### Fetch comments by note
 
-https://nostr-multimedia.eu-4.evennode.com/json/comments/relay.nostr.band/note1kme87khrvjawl0d7k0mwwdqqrx3ya4kenuajzynft4uk75ya53ms2qeeqw/
+https://nostr-multimedia.netlify.app/json/comments/relay.nostr.band/note1kme87khrvjawl0d7k0mwwdqqrx3ya4kenuajzynft4uk75ya53ms2qeeqw/
 
 ### Fetch profile by npub
 
-https://nostr-multimedia.eu-4.evennode.com/json/profile/relay.nostr.band/npub1jfujw6llhq7wuvu5detycdsq5v5yqf56sgrdq8wlgrryx2a2p09svwm0gx/
+https://nostr-multimedia.netlify.app/json/profile/relay.nostr.band/npub1jfujw6llhq7wuvu5detycdsq5v5yqf56sgrdq8wlgrryx2a2p09svwm0gx/
 
 ### Fetch notes by author
 
-https://nostr-multimedia.eu-4.evennode.com/json/author/relay.nostr.band/npub1jfujw6llhq7wuvu5detycdsq5v5yqf56sgrdq8wlgrryx2a2p09svwm0gx/
+https://nostr-multimedia.netlify.app/json/author/relay.nostr.band/npub1jfujw6llhq7wuvu5detycdsq5v5yqf56sgrdq8wlgrryx2a2p09svwm0gx/
 
 ### Fetch notes by search term
 
-https://nostr-multimedia.eu-4.evennode.com/json/search/relay.nostr.band/bitcoin/
+https://nostr-multimedia.netlify.app/json/search/relay.nostr.band/bitcoin/
 
 Or
 
-https://nostr-multimedia.eu-4.evennode.com/json/search/relay.nostr.band/bitcoin/limit-10/since-100000000/
+https://nostr-multimedia.netlify.app/json/search/relay.nostr.band/bitcoin/limit-10/since-100000000/
 
 Note: Not all relays support search
 
@@ -80,7 +80,7 @@ Note: Not all relays support search
 
 ### Display a note
 
-https://nostr-multimedia.eu-4.evennode.com/text/nos.lol/naddr1qqfxy6t5vdhkjm3dwa5xjar9wpshqetjqgsp6ppesc0wf3q3c3qh7g74yzytc297xdn6f66lqgv2mv03exlmcwsrqsqqqa28dd8gcl/
+https://nostr-multimedia.netlify.app/text/nos.lol/naddr1qqfxy6t5vdhkjm3dwa5xjar9wpshqetjqgsp6ppesc0wf3q3c3qh7g74yzytc297xdn6f66lqgv2mv03exlmcwsrqsqqqa28dd8gcl/
 
 Returns:
 
@@ -100,7 +100,7 @@ A plain text file
 
 ### Display a note
 
-https://nostr-multimedia.eu-4.evennode.com/markdown/nos.lol/naddr1qqfxy6t5vdhkjm3dwa5xjar9wpshqetjqgsp6ppesc0wf3q3c3qh7g74yzytc297xdn6f66lqgv2mv03exlmcwsrqsqqqa28dd8gcl/
+https://nostr-multimedia.netlify.app/markdown/nos.lol/naddr1qqfxy6t5vdhkjm3dwa5xjar9wpshqetjqgsp6ppesc0wf3q3c3qh7g74yzytc297xdn6f66lqgv2mv03exlmcwsrqsqqqa28dd8gcl/
 
 Returns:
 
@@ -120,7 +120,7 @@ A HTML page
 
 ### Display a note
 
-https://nostr-multimedia.eu-4.evennode.com/html/nos.lol/naddr1qq9xummnw3ez6urpvajsygqaqsucv8hycsgugstly02jpz9u9zlrxeayad0syx9dk8cun0au8gpsgqqqw4rsz30n4m/
+https://nostr-multimedia.netlify.app/html/nos.lol/naddr1qq9xummnw3ez6urpvajsygqaqsucv8hycsgugstly02jpz9u9zlrxeayad0syx9dk8cun0au8gpsgqqqw4rsz30n4m/
 
 Returns:
 
@@ -151,7 +151,7 @@ http://127.0.0.1:8080/file/{RELAY}/{ID}/{FILENAME}.{EXTENSION}
 
 ### Display an image
 
-https://nostr-multimedia.eu-4.evennode.com/file/nos.lol/note1wqvk97jzp5nqxt79vy3rj3ts8pxp7z4sqhznh6sjj0txjjcdj28qrlp7m7/image.png
+https://nostr-multimedia.netlify.app/file/nos.lol/note1wqvk97jzp5nqxt79vy3rj3ts8pxp7z4sqhznh6sjj0txjjcdj28qrlp7m7/image.png
 
 Returns:
 
