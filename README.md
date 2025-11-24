@@ -147,7 +147,7 @@ A HTML page
 
 Or
 
-http://127.0.0.1:8080/file/{RELAY}/{ID}/{FILENAME}.{EXTENSION}
+`http://127.0.0.1:8080/file/{RELAY}/{ID}/{FILENAME}.{EXTENSION}`
 
 ### Display an image
 
