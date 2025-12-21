@@ -1,6 +1,6 @@
 {
   "name": "nostr-multimedia",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fetch anything from Nostr - JSON RPC, plaintext, Markdown, HTML and images",
   "license": "MIT",
   "author": "ed253",
